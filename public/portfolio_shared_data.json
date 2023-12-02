@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Johnny Backus",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Former Coast Guard, current Nurse Case Manager, and aspiring software developer in the healthcare industry with an emphasis in Python." ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.jpeg"
     },
     "skills": {
       "icons": [
